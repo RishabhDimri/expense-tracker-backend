@@ -14,16 +14,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [📸 Screenshots](#screenshots)
-- [⚙️ Prerequisites](#prerequisites)
-- [🚀 Installation](#installation)
-- [💻 Usage](#usage)
-- [✨ Features](#features)
-- [📄 License](#license)
-- [👤 Contact](#contact)
-
 ## 📸 Screenshots
 
 > Add your screenshots here.
