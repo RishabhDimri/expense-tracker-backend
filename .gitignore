@@ -1,0 +1,39 @@
+# --- Security / Local Environment ---
+.env
+.env.local
+
+# --- Maven Build Artifacts ---
+target/
+*.jar
+*.war
+*.ear
+*.cprof
+*.pid
+*.download
+*.orig
+
+# --- VS Code IDE Settings ---
+.vscode/
+*.code-workspace
+.history/
+
+# --- Other Common IDEs (IntelliJ / Eclipse) ---
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+.classpath
+.project
+.settings/
+.factorypath
+
+# --- Operating System Files ---
+Diagnostic-Reports/
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# --- Log Files ---
+*.log
+logs/
